@@ -174,7 +174,8 @@ Average and standard deviation of the time-domain magnitude of body acceleration
 
 - Average and standard deviation of the Frequency magnitude of body gyroscope jerk:
 
-        FrequencyBodyGyroscopeJerkMagnitudeMean                                									FrequencyBodyGyroscopeJerkMagnitudeSTD
+        FrequencyBodyGyroscopeJerkMagnitudeMean
+		FrequencyBodyGyroscopeJerkMagnitudeSTD
 
 ## Transformations <a name=transformations></a>
 
