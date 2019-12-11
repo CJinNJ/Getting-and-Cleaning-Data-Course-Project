@@ -36,88 +36,88 @@ Each row contains, for a given subject and activity, 66 averaged measurements.
 
 - Average time-domain body acceleration in the X, Y and Z directions:
 
-        TimeBodyAccelerometerMeanX
-        TimeBodyAccelerometerMeanY 
-        TimeBodyAccelerometerMeanZ 
+        - TimeBodyAccelerometerMeanX
+        - TimeBodyAccelerometerMeanY 
+        - TimeBodyAccelerometerMeanZ 
 
 - Standard deviation of the time-domain body acceleration in the X, Y and Z directions:
 
-        TimeBodyAccelerometerSTDX
-        TimeBodyAccelerometerSTDY 
-        TimeBodyAccelerometerSTDZ 
+        -TimeBodyAccelerometerSTDX
+        -TimeBodyAccelerometerSTDY 
+        -TimeBodyAccelerometerSTDZ 
 
 - Average time-domain gravity acceleration in the X, Y and Z directions:
 
-        TimeGravityAccelerometerMeanX 
-        TimeGravityAccelerometerMeanY 
-        TimeGravityAccelerometerMeanZ
+        - TimeGravityAccelerometerMeanX 
+        - TimeGravityAccelerometerMeanY 
+        - TimeGravityAccelerometerMeanZ
         
 - Standard deviation of the time-domain gravity acceleration in the X, Y and Z directions:
 
-        TimeGravityAccelerometerSTDX 
-        TimeGravityAccelerometerSTDY 
-        TimeGravityAccelerometerSTDZ 
+        - TimeGravityAccelerometerSTDX 
+        - TimeGravityAccelerometerSTDY 
+        - TimeGravityAccelerometerSTDZ 
 
 - Average time-domain body acceleration jerk (derivation of the acceleration in time) in the X, Y and Z directions:
 
-        TimeBodyAccelerometerJerkMeanX 
-        TimeBodyAccelerometerJerkMeanY 
-        TimeBodyAccelerometerJerkMeanZ 
+        -TimeBodyAccelerometerJerkMeanX 
+        -TimeBodyAccelerometerJerkMeanY 
+        -TimeBodyAccelerometerJerkMeanZ 
 
 - Standard deviation of the time-domain body acceleration jerk (derivation of the acceleration in time) in the X, Y and Z directions:
 
-        TimeBodyAccelerometerJerkSTDX 
-        TimeBodyAccelerometerJerkSTDY 
-        TimeBodyAccelerometerJerkSTDZ 
+        -TimeBodyAccelerometerJerkSTDX 
+        -TimeBodyAccelerometerJerkSTDY 
+        -TimeBodyAccelerometerJerkSTDZ 
 
 - Average time-domain body angular velocity in the X, Y and Z directions:
 
-        TimeBodyGyroscopeMeanX 
-        TimeBodyGyroscopeMeanY 
-        TimeBodyGyroscopeMeanZ 
+        -TimeBodyGyroscopeMeanX 
+        -TimeBodyGyroscopeMeanY 
+        -TimeBodyGyroscopeMeanZ 
 
 - Standard deviation of the time-domain body angular velocity in the X, Y and Z directions:
 
-        TimeBodyGyroscopeSTDX 
-        TimeBodyGyroscopeSTDY 
-        TimeBodyGyroscopeSTDZ 
+        -TimeBodyGyroscopeSTDX 
+        -TimeBodyGyroscopeSTDY 
+        -TimeBodyGyroscopeSTDZ 
 
 - Average time-domain body angular velocity jerk (derivation of the angular velocity in time) in the X, Y and Z directions:
 
-        TimeBodyGyroscopeJerkMeanX 
-        TimeBodyGyroscopeJerkMeanY 
-        TimeBodyGyroscopeJerkMeanZ 
+        -TimeBodyGyroscopeJerkMeanX 
+        -TimeBodyGyroscopeJerkMeanY 
+        -TimeBodyGyroscopeJerkMeanZ 
 
 - Standard deviation of the time-domain body angular velocity jerk (derivation of the angular velocity in time) in the X, Y and Z directions:
 
-        TimeBodyGyroscopeJerkSTDX 
-        TimeBodyGyroscopeJerkSTDY 
-        TimeBodyGyroscopeJerkSTDZ 
+        -TimeBodyGyroscopeJerkSTDX 
+        -TimeBodyGyroscopeJerkSTDY 
+        -TimeBodyGyroscopeJerkSTDZ 
 
 - Average and standard deviation of the time-domain magnitude of body acceleration:
 
-        TimeBodyAccelerometerMagnitudeMean 
-        TimeBodyAccelerometerMagnitudeSTD 
+        -TimeBodyAccelerometerMagnitudeMean 
+        -TimeBodyAccelerometerMagnitudeSTD 
 
 - Average and standard deviation of the time-domain magnitude of gravity acceleration:
 
-        TimeGravityAccelerometerMagnitudeMean                                   
-	TimeGravityAccelerometerMagnitudeSTD 
-
+       		TimeGravityAccelerometerMagnitudeMean 
+		TimeGravityAccelerometerMagnitudeSTD 
+        
 Average and standard deviation of the time-domain magnitude of body acceleration jerk (derivation of the acceleration in time):
 
-        TimeBodyAccelerometerJerkMagnitudeMean                                  
-	TimeBodyAccelerometerJerkMagnitudeSTD 
+        -TimeBodyAccelerometerJerkMagnitudeMean                                  
+	-TimeBodyAccelerometerJerkMagnitudeSTD 
 
 - Average and standard deviation of the time-domain magnitude of body angular velocity:
 
-        TimeBodyGyroscopeMagnitudeMean 
-        TimeBodyGyroscopeMagnitudeSTD 
+        -TimeBodyGyroscopeMagnitudeMean 
+        -TimeBodyGyroscopeMagnitudeSTD 
 
 - Average and standard deviation of the time-domain magnitude of body angular velocity jerk (derivation of the angular velocity in time):
 
-        TimeBodyGyroscopeJerkMagnitudeMean 
-        TimeBodyGyroscopeJerkMagnitudeSTD 
+        -TimeBodyGyroscopeJerkMagnitudeMean 
+        -TimeBodyGyroscopeJerkMagnitudeSTD 
 
 ### Frequency-domain signals
 
@@ -159,7 +159,8 @@ Average and standard deviation of the time-domain magnitude of body acceleration
 
 - Average and standard deviation of the Frequency magnitude of body acceleration:
 
-        FrequencyBodyAccelerometerMagnitudeMean													FrequencyBodyAccelerometerMagnitudeSTD 
+	FrequencyBodyAccelerometerMagnitudeMean
+	FrequencyBodyAccelerometerMagnitudeSTD 
 
 - Average and standard deviation of the Frequency magnitude of body acceleration jerk:
 
