@@ -101,11 +101,13 @@ Each row contains, for a given subject and activity, 66 averaged measurements.
 
 - Average and standard deviation of the time-domain magnitude of gravity acceleration:
 
-        TimeGravityAccelerometerMagnitudeMean                                   TimeGravityAccelerometerMagnitudeSTD 
+        TimeGravityAccelerometerMagnitudeMean                                   
+	TimeGravityAccelerometerMagnitudeSTD 
 
 Average and standard deviation of the time-domain magnitude of body acceleration jerk (derivation of the acceleration in time):
 
-        TimeBodyAccelerometerJerkMagnitudeMean                                  TimeBodyAccelerometerJerkMagnitudeSTD 
+        TimeBodyAccelerometerJerkMagnitudeMean                                  
+	TimeBodyAccelerometerJerkMagnitudeSTD 
 
 - Average and standard deviation of the time-domain magnitude of body angular velocity:
 
@@ -157,7 +159,8 @@ Average and standard deviation of the time-domain magnitude of body acceleration
 
 - Average and standard deviation of the Frequency magnitude of body acceleration:
 
-        FrequencyBodyAccelerometerMagnitudeMean                                 FrequencyBodyAccelerometerMagnitudeSTD 
+        FrequencyBodyAccelerometerMagnitudeMean                                 
+	FrequencyBodyAccelerometerMagnitudeSTD 
 
 - Average and standard deviation of the Frequency magnitude of body acceleration jerk:
 
@@ -171,7 +174,8 @@ Average and standard deviation of the time-domain magnitude of body acceleration
 
 - Average and standard deviation of the Frequency magnitude of body gyroscope jerk:
 
-        FrequencyBodyGyroscopeJerkMagnitudeMean                                 FrequencyBodyGyroscopeJerkMagnitudeSTD
+        FrequencyBodyGyroscopeJerkMagnitudeMean                                 
+	FrequencyBodyGyroscopeJerkMagnitudeSTD
 
 ## Transformations <a name=transformations></a>
 
