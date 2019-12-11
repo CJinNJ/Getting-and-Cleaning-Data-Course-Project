@@ -27,7 +27,7 @@ The source data set that this project was based on was obtained from the [Human 
         body motion components, was separated using a Butterworth low-pass filter into body acceleration and gravity. The gravitational
         force is assumed to have only low frequency components, therefore a filter with 0.3 Hz cutoff frequency was used. From each
         window, a vector of features was obtained by calculating variables from the time and frequency domain.
-
+        
 Training and test data were first merged together to create one data set, then the measurements on the mean and standard deviation were extracted for each measurement (79 variables extracted from the original 561), and then the measurements were averaged for each subject and activity, resulting in the final data set.
 
 ## Creating the data set <a name="creating-data-set"></a>
